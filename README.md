@@ -82,4 +82,4 @@ This project analyzes international logistics capabilities based on the World Ba
 ## Final Thoughts 📝
 This project reflects competencies required by **Operations Analysts** and **Business Analysts**, with a global perspective on performance benchmarking, KPI tracking, and regional improvement planning using data tools.
 
->_Note: Also listed as “Global Logistics Performance Dashboard” on my resume and LinkedIn profile._
+>This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
