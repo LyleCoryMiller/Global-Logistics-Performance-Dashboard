@@ -1,6 +1,6 @@
 # Global Logistics Performance Dashboard | SQL + Power BI  
 
-Analyzed international delivery trends and supplier KPIs using SQL and Power BI to uncover bottlenecks and efficiency gaps.
+*Analyzed international delivery trends and supplier KPIs using SQL and Power BI to uncover bottlenecks and efficiency gaps.*
 
 ![Dashboard Screenshot](./Logistics_Performance_Dashboard.png)
 
